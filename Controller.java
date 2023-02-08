@@ -1,5 +1,7 @@
 public class Controller {
     public static void main(String[] args) {
-        System.out.println("Controller");
+        int a = 20;
+        System.out.println("changed");
+        System.out.println(a);
     }
 }
